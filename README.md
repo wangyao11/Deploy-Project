@@ -3,4 +3,4 @@
 
 ## 目录（Contents）
 
-- [1.mac osx 安装 ImageMagic和Jmagick]（./doc/mac-jmagick.md）
+- [1.mac osx 安装 ImageMagic和Jmagick](./doc/mac-jmagick.md)
