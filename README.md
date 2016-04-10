@@ -4,3 +4,4 @@
 ## 目录（Contents）
 
 - [1.mac osx 安装 ImageMagic和Jmagick](./doc/mac-jmagick.md)
+- [2.ubuntu 安装 ImageMagic和Jmagick](./doc/ubuntu-jmagick.md)
